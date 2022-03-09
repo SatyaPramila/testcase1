@@ -2,3 +2,5 @@ carrots
 apples
 mangoes
 melon
+cereal
+oranges
